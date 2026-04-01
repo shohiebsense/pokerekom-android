@@ -2,6 +2,8 @@
 
 An Android application for getting personalized Pokémon team recommendations.
 
+![https://raw.githubusercontent.com/shohiebsense/pokerekom-android/refs/heads/main/Screenshot%202026-04-02%20at%200.17.45.png](https://raw.githubusercontent.com/shohiebsense/pokerekom-android/refs/heads/main/Screenshot%202026-04-02%20at%200.17.45.png)
+
 ## Architecture
 
 This project follows **Clean Architecture** with proper separation of concerns:
